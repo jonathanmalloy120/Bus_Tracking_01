@@ -11,3 +11,5 @@ Pull down the entire repository, then drag index.html into a browser tab. The ex
 2. Changes to the bus indicator icons to make them more aesthetically pleasing.
 3. An indicator that shows whether or not a given bus has moved or remained stationary over the past 15 seconds.
 4. The ability to use this tracker in other cities with data from other metro areas.
+
+This program is coded and distributed according to MIT license. MIT License: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. If you use this code in any projects please inculde MIT and MapBox and/or contact them for additional licensing information.
